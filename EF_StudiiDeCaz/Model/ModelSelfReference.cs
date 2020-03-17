@@ -14,7 +14,13 @@ namespace EF_StudiiDeCaz.Model
         {
         }
 
+       
+
+
         public virtual DbSet<SelfReference> SelfReferences { get; set; }
+
+       
+
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -22,7 +28,8 @@ namespace EF_StudiiDeCaz.Model
             modelBuilder.Entity<SelfReference>()
                 .HasMany(m => m.References)
                 .WithOptional(m => m.ParentSelfReference);
-               
+           
         }
+
     }
 }
