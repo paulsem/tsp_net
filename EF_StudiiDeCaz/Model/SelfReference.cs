@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,19 +11,17 @@ namespace EF_StudiiDeCaz.Model
 {
     public class SelfReference
     {
-
-        public int SelfeReferenceId { get; private set; }
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int SelfReferenceId { get; private set; }
         public string Name { get; set; }
-
-        public int? ParentSelfReferencedId { get; private set; }
-
+        public int? ParentSelfReferenceId { get; private set; }
+        [ForeignKey("ParentSelfReferenceId")]
         public SelfReference ParentSelfReference { get; set; }
-
         public virtual ICollection<SelfReference> References { get; set; }
         public SelfReference()
         {
             References = new HashSet<SelfReference>();
         }
-        
     }
 }
