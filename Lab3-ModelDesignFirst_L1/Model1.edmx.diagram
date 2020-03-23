@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="89666061af5e4c64b5f99a791e57f1ff" Name="Diagram1" ShowGrid="true" DisplayType="true" ZoomLevel="121" >
+        <EntityTypeShape EntityType="Model1.Person" Width="1.5" PointX="0.5" PointY="0.5" />
+        <EntityTypeShape EntityType="Model1.Customer" Width="1.5" PointX="3.375" PointY="0.5" />
+        <EntityTypeShape EntityType="Model1.Order" Width="1.5" PointX="5.5" PointY="0.5" />
+        <AssociationConnector Association="Model1.CustomerOrder" />
+        <EntityTypeShape EntityType="Model1.Album" Width="1.5" PointX="3.625" PointY="2.875" />
+        <EntityTypeShape EntityType="Model1.Artist" Width="1.5" PointX="5.875" PointY="2.875" />
+        <AssociationConnector Association="Model1.AlbumArtist" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
