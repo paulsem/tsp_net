@@ -6,3 +6,6 @@ Laboratoarele de la tsp net
 3. Laboratorul 3 - model design first entity framework
 4. Laboratorul 4 - model code first entity framework
 5. Laboratorul 5 - entity framework studii de caz 
+
+
+Daca sunt nereguli va rog sa imi comunicati pe adresa de mail: paulsenciuc98@gmail.com
