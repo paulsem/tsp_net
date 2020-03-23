@@ -1,0 +1,9 @@
+C:\Users\Paul\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Paul\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Paul\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Paul\source\repos\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Paul\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Paul\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Paul\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Paul\source\repos\calculator\calculator\obj\Debug\calculator.pdb
