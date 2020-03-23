@@ -1,8 +1,8 @@
-# tsp_net
-teme tsp 
+# Tsp net
+Laboratoarele de la tsp net 
 
-Laboratorul EF_studii de caz
-  * code first 
-  * creez tabela SelfReference 
-  * adaug informatii si le afisez 
-  * Scenariul 1 si Scenariul 2 
+1. Laboratorul 1 
+2. Laboratorul 2 - calculatorul stiintific 
+3. Laboratorul 3 - model design first entity framework
+4. Laboratorul 4 - model code first entity framework
+5. Laboratorul 5 - entity framework studii de caz 
