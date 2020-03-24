@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ServiceModel;
 using Lab6_WCF_EF;
-
+using System.Runtime.Serialization;
+using static PostCommentClient;
 
 namespace ObjectWCF
 {
@@ -29,4 +30,8 @@ namespace ObjectWCF
     }
     [ServiceContract]
     interface IPostComment : InterfacePost, InterfaceComment { }
+
+    class InterfaceWCF
+    {
+    }
 }

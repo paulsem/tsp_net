@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Lab6_WCF_EF;
 using Lab6_WCF_EF.APIStatic;
 
+
 namespace ObjectWCF
 {
     public class PostComment : IPostComment
