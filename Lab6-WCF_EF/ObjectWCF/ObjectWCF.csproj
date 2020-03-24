@@ -55,9 +55,9 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Lab6-WCF_EF\PostComment.csproj">
+    <ProjectReference Include="..\Lab6-WCF_EF\Lab6_WCF_EF.csproj">
       <Project>{96e021ed-c60a-400e-a8a7-d7ab5d244531}</Project>
-      <Name>PostComment</Name>
+      <Name>Lab6_WCF_EF</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
