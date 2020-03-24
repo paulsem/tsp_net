@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using System.ServiceModel;
 using Lab6_WCF_EF;
 using System.Runtime.Serialization;
-using static PostCommentClient;
 
 namespace ObjectWCF
 {
