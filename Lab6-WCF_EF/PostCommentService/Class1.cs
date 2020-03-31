@@ -6,6 +6,7 @@ using System.Text;
 using AutoMapper;
 using AutoMapper.Configuration;
 using Lab6_WCF_EF;
+using Lab6_WCF_EF.API;
 
 namespace PostCommentService
 {
@@ -19,7 +20,7 @@ namespace PostCommentService
         public List<Post> GetAll()
         {
             List<Post> lp = new List<Post>();
-            using (var context = new ModelPostBlogContainer())
+            using (var context = new ModelPostCommentContainer)
             {
                 lp = context.Posts.Include(p => p.Comments).ToList();
             }

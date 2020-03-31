@@ -79,9 +79,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ObjectWCF\ObjectWCF.csproj">
-      <Project>{ecadc751-4a04-4560-9dc4-b7befc50066a}</Project>
-      <Name>ObjectWCF</Name>
+    <ProjectReference Include="..\GUI\ClientPostComment.csproj">
+      <Project>{6476ad35-7c56-4d92-82d3-493dd06d77d0}</Project>
+      <Name>ClientPostComment</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
