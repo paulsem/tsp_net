@@ -12,9 +12,8 @@ Laboratoarele de la tsp net
 <li> Laboratorul 8 
   <ul> 
     <li>model grpc </li>
-    <li>proxy.cs si app.config -> in laboratorul 7 (continuare proiect 2)  </li>
+    <li><em>proxy.cs</em> si <em>app.config</em> -> in <a href="https://github.com/paulsem/tsp_net/tree/master/Lab7-Host_and_Object">laboratorul 7</a> (continuare proiect 2)  </li>
   </ul>
  </li>
 </ol>
-<input type="button"> asdf</input>
 Daca sunt nereguli va rog sa imi comunicati pe adresa de mail: <a href="mailto: paulsenciuc@gmail.com?subject=Feedback&body=Message">paulsenciuc98@gmail.com</email>
