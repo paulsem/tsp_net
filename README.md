@@ -1,6 +1,6 @@
 # Tsp net
 Laboratoarele de la tsp net 
-
+<pre>
 1. Laboratorul 1 
 2. Laboratorul 2 - calculatorul stiintific 
 3. Laboratorul 3 - model design first entity framework
@@ -12,3 +12,4 @@ Laboratoarele de la tsp net
                  * proxy.cs si app.config -> in laboratorul 7 (continuare proiect 2)  
 
 Daca sunt nereguli va rog sa imi comunicati pe adresa de mail: paulsenciuc98@gmail.com
+</pre>
