@@ -1,15 +1,19 @@
 # Tsp net
 Laboratoarele de la tsp net 
-<pre>
-1. Laboratorul 1 
-2. Laboratorul 2 - calculatorul stiintific 
-3. Laboratorul 3 - model design first entity framework
-4. Laboratorul 4 - model code first entity framework
-5. Laboratorul 5 - entity framework studii de caz 
-6. Laboratorul 6 - WCF 
-7. Laboratorul 7 - lucru proiect(obiect wcf si host wcf)
-8. Laboratorul 8 * model grpc   
-                 * proxy.cs si app.config -> in laboratorul 7 (continuare proiect 2)  
 
-Daca sunt nereguli va rog sa imi comunicati pe adresa de mail: paulsenciuc98@gmail.com
-</pre>
+<ol>
+<li> Laboratorul 1 </li>
+<li> Laboratorul 2 - calculatorul stiintific </li>
+<li> Laboratorul 3 - model design first entity framework</li>
+<li> Laboratorul 4 - model code first entity framework</li>
+<li> Laboratorul 5 - entity framework studii de caz </li>
+<li> Laboratorul 6 - WCF </li>
+<li> Laboratorul 7 - lucru proiect(obiect wcf si host wcf)</li>
+<li> Laboratorul 8 
+  <ul> 
+    <li>model grpc </li>
+    <li>proxy.cs si app.config -> in laboratorul 7 (continuare proiect 2)  </li>
+  </ul>
+ </li>
+</ol>
+Daca sunt nereguli va rog sa imi comunicati pe adresa de mail: <email>paulsenciuc98@gmail.com</email>
