@@ -16,4 +16,4 @@ Laboratoarele de la tsp net
   </ul>
  </li>
 </ol>
-Daca sunt nereguli va rog sa imi comunicati pe adresa de mail: <a href="mailto: paulsenciuc@gmail.com?subject="Feedback"body="Message">paulsenciuc98@gmail.com</email>
+Daca sunt nereguli va rog sa imi comunicati pe adresa de mail: <a href="mailto: paulsenciuc@gmail.com?subject=Feedback&body=Message">paulsenciuc98@gmail.com</email>
