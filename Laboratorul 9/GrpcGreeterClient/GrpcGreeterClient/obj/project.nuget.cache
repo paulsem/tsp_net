@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "83yJw6O4GbhPZb+AZ1uNEIjm1BlUBnsYSbTNGxmUBhQ3E1Y045x9BBs5KWXCNYMM39Hitf0suYaxLyer5T6W1Q==",
+  "dgSpecHash": "SegTXSNpzGgYpJjD89n+hqzDZhMw6TAGbuDArJF0N/M1zHI4v/2vKnjvB5NgBXsTZkNSmRwu3iK9ijIhhCWoog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 8\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+  "projectFilePath": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 9\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Paul\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
     "C:\\Users\\Paul\\.nuget\\packages\\grpc.core.api\\2.27.0\\grpc.core.api.2.27.0.nupkg.sha512",

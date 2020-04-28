@@ -10,15 +10,18 @@ service Greeter {
   rpc SayHello (HelloRequest) returns (HelloReply);
 }
 
-// The request message containing the user's name.
-message HelloRequest {
-  string name = 1;
+service PostComment{
+    rpc MakeUpdate (UpdateCommentRequest) returns (UpdateCommentResponse);
+    rpc AddCommentFunction (AddCommentRequest) returns (AddCommentResponse);
+    rpc MakePost (UpdatePostRequest) returns (UpdatePostResponse);
+    rpc MakePostReq (AddPostRequest) returns (AddPostResponse);
+    rpc MakeCommentReq (AddCommentRequest) returns (AddCommentResponse);
+    rpc GetComment (GetCommentByIdRequest) returns (GetCommentByIdResponse);
+    rpc DeletePost (DeletePostRequest) returns (DeletePostResponse);
+    rpc GetPostById (GetPostByIdRequest) returns (GetPostByidResponse);
+    rpc MakeUpdatePost (UpdatePostRequest) returns (UpdatePostResponse);
 }
 
-// The response message containing the greetings.
-message HelloReply {
-  string message = 1;
-}
 
 message Post {
     int32 postId = 1;

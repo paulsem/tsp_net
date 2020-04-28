@@ -279,11 +279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 8\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+      "projectUniqueName": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 9\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
       "projectName": "GrpcGreeterClient",
-      "projectPath": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 8\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+      "projectPath": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 9\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
       "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 8\\GrpcGreeterClient\\GrpcGreeterClient\\obj\\",
+      "outputPath": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 9\\GrpcGreeterClient\\GrpcGreeterClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",

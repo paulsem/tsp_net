@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 8\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj": {}
+    "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 9\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 8\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj": {
+    "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 9\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 8\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
+        "projectUniqueName": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 9\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
         "projectName": "GrpcGreeter",
-        "projectPath": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 8\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
+        "projectPath": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 9\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
         "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 8\\GrpcGreeter\\GrpcGreeter\\obj\\",
+        "outputPath": "C:\\Users\\Paul\\Documents\\GitHub\\tsp_net\\Laboratorul 9\\GrpcGreeter\\GrpcGreeter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
