@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Net;
+﻿using System.Collections.Generic;
 using System.ServiceModel;
-using System.Text;
-using AutoMapper;
-using AutoMapper.Configuration;
 using Lab6_WCF_EF;
-using Lab6_WCF_EF.API;
 
 namespace PostCommentService
 {
