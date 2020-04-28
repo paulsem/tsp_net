@@ -59,7 +59,7 @@ message AddPostRequest{
 }
 
 message AddPostResponse{
-    bool finish = 1;
+    bool done = 1;
 }
 message GetCommentByIdRequest{
     int id = 1;
@@ -78,7 +78,7 @@ message DeletePostRequest{
 }
 
 message DeletePostResponse{
-    int finish = 1;
+    int done = 1;
 }
 
 message GetPostByIdRequest{
